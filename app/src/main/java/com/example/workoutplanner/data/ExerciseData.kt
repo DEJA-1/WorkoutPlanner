@@ -9,64 +9,28 @@ class ExerciseDataSource() {
         return listOf(
 
             Exercise(
-                name = "Zajebac fikolaczka",
+                name = "Do anything",
                 sets = "15",
                 reps = "14"
             ),
 
             Exercise(
-                name = "Zajebac fikolaczka",
+                name = "Do anything",
                 sets = "15",
                 reps = "14"
             ),
 
             Exercise(
-                name = "Zajebac fikolaczka",
+                name = "Do anything",
                 sets = "15",
                 reps = "14"
             ),
 
             Exercise(
-                name = "Zajebac fikolaczka",
+                name = "Do anything",
                 sets = "15",
                 reps = "14"
             ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            ),
-
-            Exercise(
-                name = "Zajebac fikolaczka",
-                sets = "15",
-                reps = "14"
-            )
 
         )
 

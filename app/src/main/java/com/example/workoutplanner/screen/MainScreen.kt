@@ -163,7 +163,7 @@ fun ExerciseRow(
             .clickable {
                 onExerciseClicked(exercise)
                 Toast
-                    .makeText(context, "Note Removed", Toast.LENGTH_SHORT)
+                    .makeText(context, "Exercise Removed", Toast.LENGTH_SHORT)
                     .show()
             },
             horizontalAlignment = Alignment.Start) {
